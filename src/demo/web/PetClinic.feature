@@ -26,4 +26,8 @@ Feature: Go to Pet Clinic home page
 #    And delay(2000)
     And click("//button[@class='btn btn-default']")
 #    And delay(10000)
+<<<<<<< HEAD
     And delay(20000)
+=======
+    And delay(30000)
+>>>>>>> underConstruction
